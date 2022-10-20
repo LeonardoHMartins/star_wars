@@ -1,16 +1,8 @@
-# starwars_w2o
+# Star Wars
 
-A new Flutter project.
+### Sobre o App.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Construido com flutter, o aplicativo é sobre busca de informações sobre
+personagens, filmes, entre outras coisas, utilizando uma api externa disponibilizada
+gratuitamente:
+https://swapi.dev/documentation#start
