@@ -1,0 +1,4 @@
+#Thu Oct 20 11:42:08 BRT 2022
+base.0=F\:\\Projetos Flutter\\starwars_w2o\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
